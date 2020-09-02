@@ -1,0 +1,61 @@
+
+
+ add_package_price r2: Array
+(
+    [id] => 138008
+    [merchant_id] => 3573458
+    [item_id] => 118802
+    [amount] => 20
+    [currency] => USD
+    [description] => Simple Access Fee
+    [created_at] => 1599033591
+    [updated_at] => 1599033591
+    [starts_at] => 1599033591
+    [access_type] => Array
+        (
+            [id] => 3
+            [account_id] => 1
+            [name] => ppv
+            [quantity] => 1
+            [period] => month
+            [created_at] => 1475151191
+            [updated_at] => 1475151191
+        )
+
+    [item] => Array
+        (
+            [id] => 118802
+            [merchant_id] => 3573458
+            [merchant_uuid] => ed41c657-99f0-4d7d-97da-82c9b5564faa
+            [access_control_type] => Array
+                (
+                    [id] => 3
+                    [name] => Auth
+                    [auth] => 1
+                )
+
+            [active] => 1
+            [title] => 21 -Package
+            [content] => <div id="output"></div>
+        <script type="text/javascript" src="http://stagingone.ugrow.tv/wp-content/themes/vimeo/gallery/bundle.js"></script>
+            [template_id] => 
+            [created_at] => 1599033590
+            [updated_at] => 1599033590
+            [item_type] => Array
+                (
+                    [id] => 3
+                    [name] => package
+                    [description] => Package
+                    [content_type] => package
+                    [host] => inplayer
+                )
+
+            [age_restriction] => 
+        )
+
+    [trial_period] => 
+    [setup_fee] => 
+    [geo_restriction] => 
+    [external_fees] => 
+    [seasonal_fee] => 
+)

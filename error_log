@@ -1,0 +1,1 @@
+[01-Sep-2020 13:51:14 America/Chicago] PHP Warning:  ZipArchive::extractTo(./video-gallery/.git/objects/07/81e937507d6863bbfaea6836cd8af1be5ec57f): failed to open stream: Permission denied in /home1/ugrow/stagingone.ugrow.tv/wp-content/unzipper.php on line 134
